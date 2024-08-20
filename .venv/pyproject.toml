@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "Dz_19"
+version = "1.0"
+description = ""
+authors = ["MarselGabbasoff"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
